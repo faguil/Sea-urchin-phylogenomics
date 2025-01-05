@@ -23,9 +23,11 @@ The files in this repository are ready for use. Simply click on the file, and yo
 
 ## Index of data file contents
 
-[01-Photographs-pearls.pdf](https://github.com/faguil/Pearl-Sac-Gene-Expression/blob/main/01-Photographs-pearls.pdf) contains the photographs of pearls extracted from the pearl sacs used in this study.
+[01-Assemblies.tar.gz](https://drive.google.com/file/d/1ninmuyKmNu6Kf_nB9Imal9HSXnqDm-Na/view?usp=sharing) contains the genomic or transcriptomic assemblies (as gzipped fasta files), for all 66 terminals used to build the supermatrix and phylogenies on which this manuscript is based. SRA for the raw read files can be found in the manuscript.
 
-[02-Phylogenetic-tree-FoxJ1.pdf](https://github.com/faguil/Pearl-Sac-Gene-Expression/blob/main/02-Phylogenetic-tree-FoxJ1.pdf) contains the Maximum Likelihood phylogenetic analysis of the *Pinctada maxima* FoxJ1 protein.
+[02-Chronospaces.tar.gz]
+
+(https://github.com/faguil/Pearl-Sac-Gene-Expression/blob/main/02-Phylogenetic-tree-FoxJ1.pdf) contains the Maximum Likelihood phylogenetic analysis of the *Pinctada maxima* FoxJ1 protein.
 
 [03-Phylogenetic-tree-ETS4_PDEF.pdf](https://github.com/faguil/Pearl-Sac-Gene-Expression/blob/main/03-Phylogenetic-tree-ETS4_PDEF.pdf) contains the Maximum Likelihood phylogenetic analysis of the *Pinctada maxima* ETS4/PDEF protein.
 
