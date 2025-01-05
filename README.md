@@ -6,7 +6,7 @@ This GitHub repository provides the supplementary data referenced in the publica
 
 All files are publicly available and can be used for further research or other applications. However, if you utilize these resources in your work, we kindly request that you cite our original publication.
 
-**Phylogenomic analyses of echinoid diversification prompt a re-evaluation of their fossil record.** Nicolás Mongiardino Koch, Jeffrey R Thompson, Avery S Hiley, Marina F McCowin, A Frances Armstrong, Simon E Coppard, Felipe Aguilera, Omri Bronstein, Andreas Kroh, Rich Mooi, Greg W Rouse. *eLife* **11**:e72460 (2022). https://doi.org/10.3389/fgene.2020.597459
+**Phylogenomic analyses of echinoid diversification prompt a re-evaluation of their fossil record.** Nicolás Mongiardino Koch, Jeffrey R Thompson, Avery S Hiley, Marina F McCowin, A Frances Armstrong, Simon E Coppard, Felipe Aguilera, Omri Bronstein, Andreas Kroh, Rich Mooi, Greg W Rouse. *eLife* **11**:e72460 (2022). https://elifesciences.org/articles/72460
 
 **Abstract**
 
