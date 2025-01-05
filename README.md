@@ -10,13 +10,12 @@ All files are publicly available and can be used for further research or other a
 
 **Abstract**
 
-Pearls are highly prized biomineralized gemstones produced by molluscs. The appearance and mineralogy of cultured pearls can vary markedly, greatly affecting their commercial value. To begin to understand the role of pearl sacs—organs that form in host oysters from explanted mantle tissues that surround and synthesize pearls—we undertook transcriptomic analyses to identify genes that are differentially expressed in sacs producing pearls with different surface and structural characteristics. Our results indicate that gene expression profiles correlate with different pearl defects, suggesting that gene regulation in the pearl sac contributes to pearl appearance and quality. For instance, pearl sacs that produced pearls with surface non-lustrous calcification significantly down-regulate genes associated with cilia and microtubule function compared to pearl sacs giving rise to lustrous pearls. These results suggest that gene expression profiling can advance our understanding of processes that control biomineralization, which may be of direct value to the pearl industry, particularly in relation to defects that result in low value pearls.
+Echinoids are key components of modern marine ecosystems. Despite a remarkable fossil record, the emergence of their crown group is documented by few specimens of unclear affinities, rendering their early history uncertain. The origin of sand dollars, one of its most distinctive clades, is also unclear due to an unstable phylogenetic context. We employ 18 novel genomes and transcriptomes to build a phylogenomic dataset with a near-complete sampling of major lineages. With it, we revise the phylogeny and divergence times of echinoids, and place their history within the broader context of echinoderm evolution. We also introduce the concept of a chronospace – a multidimensional representation of node ages – and use it to explore methodological decisions involved in time calibrating phylogenies. We find the choice of clock model to have the strongest impact on divergence times, while the use of site-heterogeneous models and alternative node prior distributions show minimal effects. The choice of loci has an intermediate impact, affecting mostly deep Paleozoic nodes, for which clock-like genes recover dates more congruent with fossil evidence. Our results reveal that crown group echinoids originated in the Permian and diversified rapidly in the Triassic, despite the relative lack of fossil evidence for this early diversification. We also clarify the relationships between sand dollars and their close relatives and confidently date their origins to the Cretaceous, implying ghost ranges spanning approximately 50 million years, a remarkable discrepancy with their rich fossil record.
 
 ## Author contact
 
-- [Carmel McDougall](mailto:c.mcdougall@uq.edu.au) (senior author - PostDoc)
-- [Felipe Aguilera](mailto:f.aguilera@uq.edu.au) (first author - PhD student)
-- [Bernie Degnan](b.degnan@uq.edu.au) (corresponding author)
+- [Nicolás Mongiardino Koch](mailto:nmongiardinokoch@ucsd.edu) (corresponding author)
+- [Felipe Aguilera](mailto:f.aguilera@uq.edu.au) (senior author - Assistant Professor)
 
 ## How to download data files
 
