@@ -33,12 +33,4 @@ The files in this repository are ready for use. Simply click on the file, and yo
 
 Within each of these folders the files corresponding to the all conditions of the fourth factor tested, i.e. the loci sampling strategy, can be found (with five conditions: clock/occupancy/random/signal/usefulness).
 
-[03-Phylogenomics_dataset.tar.gz](https://github.com/faguil/Pearl-Sac-Gene-Expression/blob/main/03-Phylogenetic-tree-ETS4_PDEF.pdf) contains the Maximum Likelihood phylogenetic analysis of the *Pinctada maxima* ETS4/PDEF protein.
-
-[04-Supplementary-Tables.xlsx](https://github.com/faguil/Pearl-Sac-Gene-Expression/blob/main/04-Supplementary-Tables.xlsx) contains supplementary tables used in this study.
-
-- **Table S1.** Transcripts differentially expressed between sacs producing high vs low lustre pearls. 
-- **Table S2.** Transcripts differentially expressed between sacs producing pearls with 'calcification' and those without.
-- **Table S3.** Gene Ontology 'Biological Process' enrichments within calcification-associated differentially expressed transcripts.
-- **Table S4.** Transcripts differentially expressed between sacs producing pearls with 'underskin' and those without.
-- **Table S5.** Transcripts differentially expressed between sacs producing pearls with different weights.
+[03-Phylogenomics_dataset.tar.gz](https://github.com/faguil/Sea-urchin-phylogenomics/blob/main/Phylogenomic_datasets.tar.gz) contains the supermatrices and partition files of the phylogenomic datasets used for tree inference (i.e., the full matrix as well as those subsampled to 100 and 500 loci using genesort.R. Matrices are provided in fasta format, and partition files follow RAxML style.
