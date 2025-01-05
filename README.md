@@ -25,11 +25,15 @@ The files in this repository are ready for use. Simply click on the file, and yo
 
 [01-Assemblies.tar.gz](https://drive.google.com/file/d/1ninmuyKmNu6Kf_nB9Imal9HSXnqDm-Na/view?usp=sharing) contains the genomic or transcriptomic assemblies (as gzipped fasta files), for all 66 terminals used to build the supermatrix and phylogenies on which this manuscript is based. SRA for the raw read files can be found in the manuscript.
 
-[02-Chronospaces.tar.gz]
+[02-Chronospaces.tar.gz](https://drive.google.com/file/d/1FKM-gZE9ttfcni8fmoDNr7srl_34vBFS/view?usp=sharing) contains consensus and posterior topologies obtained from the 80 time-calibrated runs performed using PhyloBayes, and used to build chronospaces (all files are in Newick format). Posterior topologies can be uploaded and analyzed in R using the accompanying R code. Consensus trees can be visualized using FigTree. Files are organized in nested folders that specify the conditions under which the time-calibrated runs were performed using:
 
-(https://github.com/faguil/Pearl-Sac-Gene-Expression/blob/main/02-Phylogenetic-tree-FoxJ1.pdf) contains the Maximum Likelihood phylogenetic analysis of the *Pinctada maxima* FoxJ1 protein.
+- Cauchy/uniform: refers to the type of prior distribution enforced on calibrated nodes.
+- LN/UGAM: refers to the type of clock enforced (LN: autocorrelated log-normal; UGAM: uncorrelated gamma)
+- CATGTR/GTR: refers to the model of molecular evolution applied (CARGTR: site-heterogeneous; GTR: site-homogeneous; both unpartitioned)
 
-[03-Phylogenetic-tree-ETS4_PDEF.pdf](https://github.com/faguil/Pearl-Sac-Gene-Expression/blob/main/03-Phylogenetic-tree-ETS4_PDEF.pdf) contains the Maximum Likelihood phylogenetic analysis of the *Pinctada maxima* ETS4/PDEF protein.
+Within each of these folders the files corresponding to the all conditions of the fourth factor tested, i.e. the loci sampling strategy, can be found (with five conditions: clock/occupancy/random/signal/usefulness).
+
+[03-Phylogenomics_dataset.tar.gz](https://github.com/faguil/Pearl-Sac-Gene-Expression/blob/main/03-Phylogenetic-tree-ETS4_PDEF.pdf) contains the Maximum Likelihood phylogenetic analysis of the *Pinctada maxima* ETS4/PDEF protein.
 
 [04-Supplementary-Tables.xlsx](https://github.com/faguil/Pearl-Sac-Gene-Expression/blob/main/04-Supplementary-Tables.xlsx) contains supplementary tables used in this study.
 
